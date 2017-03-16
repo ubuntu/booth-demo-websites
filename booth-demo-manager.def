@@ -1,0 +1,6 @@
+developer.ubuntu.com-core:
+  description: Ubuntu Core Developer website
+  url: https://developer.ubuntu.com/core
+snapcraft.io:
+  description: Snapcraft website
+  url: https://snapcraft.io/
