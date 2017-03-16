@@ -1,0 +1,13 @@
+name: ubuntu-demo-websites
+version: '1.0' 
+summary: Demo websites configuration for Ubuntu Demo manager
+description: |
+  This snap contains a list of demo websites we are using generally in
+  booth demo manager.
+grade: stable
+confinement: strict
+
+parts:
+  config:
+    source: .
+    plugin: dump
